@@ -13,6 +13,9 @@ flash the image the the brick device
 
 you need to connect the phone with usb cable ..
 shortcut the sim slot && passive 
+
+./flashtool/flash.sh ./out
+
 ./flashtool/flash.sh ./out
 
 when it done .. 
